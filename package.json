@@ -1,0 +1,14 @@
+{
+  "name": "rei",
+  "version": "2.F-Horizonal",
+  "description": "A flexible Discord Bot. Based on the Ryexinth and Azzy Bots",
+  "main": "reihub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rythmic (Mark)",
+  "license": "N/A",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
