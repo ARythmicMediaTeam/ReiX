@@ -6,8 +6,6 @@ Confirmed working on macOS 13.
 
 Still under heavy development.
 
-Invite: https://bit.ly/reixdiscord
-
 ## How to setup bot
 Download this repository.
 Locate "config.json"
